@@ -21,8 +21,16 @@ Um resumo sobre mim:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arthurch-costa&theme=radical&mode=weekly" />
+<div  align="left" style="margin-bottom:100px">
+<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=arthurch-costa&theme=radical&mode=weekly" />
 <a href="https://github.com/arthurch-costa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurch-costa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurch-costa/arthurch-costa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurch-costa/arthurch-costa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurch-costa/arthurch-costa/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
