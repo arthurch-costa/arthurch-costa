@@ -6,7 +6,7 @@
 Um resumo sobre mim:
 
 - 🤓 Atualmente focando 100% nos estudos 📖
-- 🥳 25 anos 🎂
+- 🥳 26 anos 🎂
 - 🖥 Cursando DSM - Desenvolvimento de Software Multiplataforma na Fatec de Jahu-SP 📍
 - ⚡ Uma curiosidade a meu respeito: eu amo animais, tenho mais de 20 gatos 🐱
 - 📧 Entre em contato comigo pelo LinkedIn 💻
